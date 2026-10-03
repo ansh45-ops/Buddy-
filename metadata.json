@@ -1,0 +1,6 @@
+{
+  "name": "Malevolent Mail",
+  "description": "Sukuna-themed temporary disposable email client with multi-server nodes, automatic OTP extraction, actionable link isolation, and inbox vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
